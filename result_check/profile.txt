@@ -1,0 +1,13 @@
+#Juniper SRX3600 log文件相关配置
+SRX_cpu_idle_threshold=30
+SRX_cpu_utilization_threshold=70
+SRX_memory_utilization_threshold=70
+SRX_session_ratio_threshold=60
+
+#H3C 12518 log文件相关配置
+SW_CPU_usage_threshold=70
+SW_memory_used_threshold=70
+
+#F5 2400 log文件相关配置
+F5_CPU_usage_threshold=70
+F5_memory_used_threshold=70
